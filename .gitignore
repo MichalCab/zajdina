@@ -1,0 +1,5 @@
+log/*
+temp/*
+app/[Cc]onfig/config.local.neon
+app/[Cc]onfig/config.neon
+!empty
